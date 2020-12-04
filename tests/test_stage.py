@@ -3,7 +3,7 @@ Copyright to 000010023 by WIUT student
 """
 
 from stage.intro import all_text
-from stage.menu import menus, select
+from stage.menu import menus
 
 
 def test_intro_stage():
